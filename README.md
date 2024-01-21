@@ -1,6 +1,6 @@
 # Kliq Test built with React + TypeScript + Vite
 
-Hereis the Loom Video demo for the application [Demo](https://www.loom.com/share/09fbabccdf914c2c81f918cf7c815200?sid=ac4e42e0-8604-40ab-a673-fb045eb7453b)
+Here is the Loom Video demo for the application [Demo](https://www.loom.com/share/09fbabccdf914c2c81f918cf7c815200?sid=ac4e42e0-8604-40ab-a673-fb045eb7453b)
 
 This web app was developed using this Figma design [Kliq_Figma](https://www.figma.com/file/hf8ajiuCauba1BAZjDDEVS/Works?type=design&node-id=0%3A1&mode=dev). A pixel-perfect translation of the Figma design was made. All static files including icons, images and font were exported from Figma.
 
@@ -18,7 +18,7 @@ SOLID software engineering principles were adhered to during development.
 The main assumptions are:
 
 -   The design is desktop only, since the design didn't include mobile and tablet designs.
--   Functionality of components need not be focused on given the time constraints, with the exception of basic interactivity like hover effects and sorting of the promotions based on `name`.
+-   Functionality of components need not be focused on given the time constraints, except for basic interactivity like hover effects and sorting of the promotions based on `name`.
 
 Given more time, I would implement more functionalities:
 
